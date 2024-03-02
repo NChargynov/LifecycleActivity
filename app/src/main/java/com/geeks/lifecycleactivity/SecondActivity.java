@@ -14,6 +14,8 @@ public class SecondActivity extends AppCompatActivity {
         setContentView(R.layout.activity_second);
         //// comment
 
+
+        //add menu
         String data = getIntent().getStringExtra("key1");
 
         TextView textView = findViewById(R.id.text_view);

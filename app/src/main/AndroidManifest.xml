@@ -16,6 +16,9 @@
             android:name=".ChatActivity"
             android:exported="false" />
         <activity
+            android:name=".MenuActivity"
+            android:exported="false" />
+        <activity
             android:name=".SecondActivity"
             android:exported="true" />
         <activity
